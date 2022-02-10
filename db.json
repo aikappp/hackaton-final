@@ -1,0 +1,113 @@
+{
+  "trips": [
+    {
+      "name": "Namibia Expedition",
+      "level": "3",
+      "price": "95953546",
+      "description": "Track leopards at Okonjima and elephants in Damaraland, safari in Etosha National Park, climb the dunes at Sossusvlei, and take a 3-day walking safari in NamibRand Nature Reserve.",
+      "image": "https://images.pexels.com/photos/2674052/pexels-photo-2674052.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "region": "africa",
+      "id": 13,
+      "color": "europe"
+    },
+    {
+      "name": "Tour du Mont Blanc",
+      "level": "5",
+      "price": 6578,
+      "description": "Hike the classic trails that circle glacier-clad Mont Blanc, the highest peak in western Europe, passing from France to Italy and into Switzerland on foot.",
+      "image": "https://images.pexels.com/photos/358532/pexels-photo-358532.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "region": "europe",
+      "id": 17
+    },
+    {
+      "name": "In Patagonia",
+      "level": "8",
+      "price": 6564,
+      "description": "Enjoy the best day hikes in Argentina's Los Glaciares National Park, Chile's Paine National Park, and Tierra del Fuego at \"the ends of the Earth,\" with accommodations in fine lodges.",
+      "image": "https://images.pexels.com/photos/10308913/pexels-photo-10308913.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "region": "latin-america",
+      "id": 18
+    },
+    {
+      "name": "Great Hikes and Estanias of Patagonia",
+      "level": "4",
+      "price": 8900,
+      "description": "Hike the mountain trails of Patagonia's Los Glaciares National Park, home of the renowned Fitz Roy massif, view the towering ice wall of the Perito Moreno Glacier, and enjoy overnights in historic, welcoming estancias.",
+      "image": "https://images.pexels.com/photos/547119/pexels-photo-547119.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "region": "latin-america",
+      "id": 19
+    },
+    {
+      "name": "Jordan Privite Jorney",
+      "level": "2 ",
+      "price": 7235,
+      "description": "\nJoin your private guide to explore the magnificent Roman ruins at Jerash, the ethereal desert canyon of Wadi Rum, haunt of T. E. Lawrence, and the extraordinary lost city of Petra, a World Heritage Site.",
+      "image": "https://images.pexels.com/photos/3965003/pexels-photo-3965003.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "region": "middle-east",
+      "id": 20
+    },
+    {
+      "name": "Jordan : Petra and Wadi Rum Extension",
+      "level": "9",
+      "price": 47899,
+      "description": "Journey to the fabled fortress of Petra, the haunting desert realm of Wadi Rum, the ancient Roman city of Jerash, and the pilgrimage site of Mt. Nebo.",
+      "image": "https://images.pexels.com/photos/7895276/pexels-photo-7895276.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "region": "middle-east",
+      "id": 21
+    },
+    {
+      "name": "Brutan Private Journey",
+      "level": "10",
+      "price": 15943,
+      "description": "On this lodge-based journey with your own private guide, hike to tiny villages and mountainside temples, meet red-robed monks, explore colorful markets, and discover a unique Shangri La kingdom in the Himalayas.",
+      "image": "https://images.pexels.com/photos/1416900/pexels-photo-1416900.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "region": "asia",
+      "id": 22
+    },
+    {
+      "name": "Hiker's Journey to Bhutan",
+      "level": "2",
+      "price": 6814,
+      "description": "Our hiking journey stretches across Bhutan from Paro, with its famed Taktsang Monastery (the \"Tiger's Nest\") to Bumthang, a sacred region of towering rhododendron forests, misty gorges, and countless holy sites",
+      "image": "https://images.pexels.com/photos/1365425/pexels-photo-1365425.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "region": "asia",
+      "id": 23
+    },
+    {
+      "name": "Trans-Caucasus Adventure",
+      "level": "5",
+      "price": 8889,
+      "description": "Explore the ancient cultural heritage of Azerbaijan, Georgia, and Armenia on this unique Central Asia overland adventure.",
+      "image": "https://images.pexels.com/photos/746386/pexels-photo-746386.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "region": "asia",
+      "id": 24
+    },
+    {
+      "name": "Churchill Polar Bear Expedition",
+      "level": "1",
+      "price": 53789,
+      "description": "Search for polar bears and other wildlife in Canada's Churchill Wildlife Management Area. Go dog sledding through the boreal forest and learn about the culture and history of this arctic realm.",
+      "image": "https://images.pexels.com/photos/666737/pexels-photo-666737.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "region": "north-america",
+      "id": 25
+    },
+    {
+      "name": "Manitoba Wildlife Safari",
+      "level": "9",
+      "price": 28756,
+      "description": "From rolling prairie lands and boreal forests to the colorful tundra, discover a vast array of wildlife, from bison, black bear, and moose to beluga whales and polar bears—Manitoba’s “Big Five\".",
+      "image": "https://images.pexels.com/photos/5740842/pexels-photo-5740842.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "region": "north-america",
+      "id": 26
+    },
+    {
+      "name": "Adventures in the Bay of Fundy",
+      "level": "8",
+      "price": 3889,
+      "description": "Head far up north to an enchanting corner of Canada where we’ll hike the Bay of Fundy Trail and see the world’s biggest tides, savoring adventures and New Brunswick's renowned sea-to-table cuisine.",
+      "image": "https://images.pexels.com/photos/4468725/pexels-photo-4468725.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "region": "north-america",
+      "id": 27
+    }
+  ]
+}
